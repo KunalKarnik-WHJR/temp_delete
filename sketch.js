@@ -369,10 +369,6 @@ function draw(){
 
    }
 
-
-
-
-
    if(gameState == "Final"){
 
          obstacles3Group.destroyEach();
